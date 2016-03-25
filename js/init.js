@@ -6,7 +6,7 @@ $(document).ready(function() {
 });
 
 
-$('#container').imagesLoaded( function() {
+$('#imagesloaded').imagesLoaded( function() {
 	// HOVER DETAILS INITIALIZATION
   $('#h1, #h2, #a1, #a2, #c1, #c2, #f1, #f2').contenthover({
     overlay_background:'#3d4852',
