@@ -6,12 +6,11 @@ Hello IBM Design! In this repository you will find my completed test project. I 
 I utilized the following in this challenge:
 
 - HTML
-- 
+ 
 - CSS
     - Plain CSS
     - [Bulma.io](http://bulma.io/) (a lesser known CSS framework based on Flexbox. It's pretty awesome I recommend it!)
 - JavaScript
-- 
     - jQuery
     - [Slidr](https://www.berriart.com/sidr/) for a mobile menu
     - [ContentHover](http://www.backslash.gr/demos/contenthover-jquery-plugin/) for hover animations
