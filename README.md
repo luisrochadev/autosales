@@ -6,14 +6,16 @@ Hello IBM Design! In this repository you will find my completed test project. I 
 I utilized the following in this challenge:
 
 - HTML
+- 
 - CSS
     - Plain CSS
-    - Bulma.io (a lesser known CSS framework based on Flexbox. It's pretty awesome I recommend it!)
+    - [Bulma.io](http://bulma.io/) (a lesser known CSS framework based on Flexbox. It's pretty awesome I recommend it!)
 - JavaScript
+- 
     - jQuery
-    - Slidr for a mobile menu 
-    - ContentHover for hover animations
-    - imagesLoaded to prevent buggy behavior regarding ContentHover classes loading before img elements loaded onto the page 
+    - [Slidr](https://www.berriart.com/sidr/) for a mobile menu
+    - [ContentHover](http://www.backslash.gr/demos/contenthover-jquery-plugin/) for hover animations
+    - [imagesLoaded](http://imagesloaded.desandro.com/) to prevent buggy behavior regarding ContentHover classes loading before img elements loaded onto the page 
 
 
 - Photoshop in order to identify specific color values used
