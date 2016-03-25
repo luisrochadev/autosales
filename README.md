@@ -11,8 +11,11 @@ I utilized the following in this challenge:
     - Bulma.io (a lesser known CSS framework based on Flexbox. It's pretty awesome I recommend it!)
 - JavaScript
     - jQuery
-    - ContentHover for hover animations
     - Slidr for a mobile menu 
+    - ContentHover for hover animations
+    - imagesLoaded to prevent buggy behavior regarding ContentHover classes loading before img elements loaded onto the page 
+
+
 - Photoshop in order to identify specific color values used
 
 The project is published on github pages and can be seen by visiting: `http://luisrochadev.com/autosales`
